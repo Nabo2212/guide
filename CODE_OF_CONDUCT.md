@@ -20,6 +20,7 @@ include:
 * Focusing on what is best for the community
 * Showing empathy towards other community members
 * Providing constructive feedback to fellow programmers
+* Reporting any unacceptable behaviour performed by other users at team@freecodecamp.org to create an optimistic atmosphere
 
 Examples of unacceptable behavior by participants include:
 
